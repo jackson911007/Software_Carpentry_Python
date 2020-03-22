@@ -1,6 +1,4 @@
-#manipulate
-#images: one to blur the image and one to set the luminance (or brightness) of
-#the image.
+#manipulate images: one to blur the image and one to set the luminance (or brightness) of the image.
 
 from PIL import Image
 
