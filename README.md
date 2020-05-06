@@ -1,2 +1,2 @@
-# Python_Workshop_Spring_2020
+# Software Carpentary (Python)
 The first python based course took in Johns Hopkins University
