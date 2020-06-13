@@ -1,2 +1,3 @@
 # Software Carpentary (Python)
-The first python based course took in Johns Hopkins University
+My first python based course in Johns Hopkins University. Software Carpentry (EN.540.635)
+March 18, 2020. These file includeds homework. Final projects are separated in different repositories. (Lazor and Final project as labeled.
